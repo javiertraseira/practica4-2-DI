@@ -8,4 +8,4 @@ A partir del documento HTML del repositorio *[(ejercicio4.2.html)](https://githu
 
 ## Parte 2
 
-Importa una **familia tipográfica** distinta desde Internet para usar en la plantilla anteriorme planteada.
+Importa una **familia tipográfica** distinta desde Internet para usar en la plantilla anteriorme planteada y que afecte solo a los dos primeros párrafos.
